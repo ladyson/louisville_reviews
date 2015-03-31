@@ -151,6 +151,10 @@ img {
   border: 1px solid #ccc;
 }
 
+img.logo {
+	width=132px;
+}
+
 p img {
   display: inline;
   margin: 0;
